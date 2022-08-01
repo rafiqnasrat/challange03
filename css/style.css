@@ -31,3 +31,28 @@ text-align: center;
     display: flex;
     flex-direction: column;
 }
+
+.card input{
+    margin: 20px 0;
+    height: 100px;
+    border: 2px dashed;
+    text-align: center;
+    font-size: 2em;
+    outline: none;
+}
+
+.card button{
+    border: none;
+    background-color: rgb(164, 46, 46);
+    color: white;
+    padding: 10px 15px;
+    font-size: 1.6em;
+    border-radius: 10px; 
+    transition: all  ease;
+    cursor: pointer;
+
+}
+.card button:hover{
+    background-color: rgb(217, 56, 56);
+
+}
