@@ -8,4 +8,4 @@ i make a function name getPassword
 let characters 
 let password
 
-[Live Deployment Link] ()
+[Live Deployment Link] (https://rafiqnasrat.github.io/challange03)
